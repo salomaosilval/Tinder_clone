@@ -38,7 +38,7 @@ body {
 .photo {
     width: 98vw;
     height: 85vh;
-    background: url("https://images.pexels.com/photos/5822659/pexels-photo-5822659.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1") center center/cover;
+    background: url("../../img/girl.jpg") center center/cover;
     border-radius: 10px;
     display: flex;
     align-items: flex-end;
